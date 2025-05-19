@@ -3,7 +3,7 @@
 <!--
 ![GitHub Logo](/CASExplorer.png) 
 -->
-![Alt Text](/AquaAnalyzer png.png)
+![Alt Text](/AquaAnalyzer.png)
 
 ##
 
