@@ -64,7 +64,7 @@ Streamlit provides a responsive and user-friendly platform that allows anyone to
 The interface and logic are structured to prioritize clarity, ease of use, and reliability. In the future, we plan to extend this system with additional metrics (e.g., mineral levels), CSV uploads, and multi-lingual support.
 
 ## See Our Demo Video
-[![Watch the video](demovid_icon.png)](https://www.youtube.com/watch?v=your_demo_link_here) 
+[![Watch the demo](https://img.youtube.com/vi/-TwspHdb45I/maxresdefault.jpg)](https://youtu.be/-TwspHdb45I)
 
 <!--
 [![IMAGE ALT TEXT HERE](/CASExplorer.png)](https://youtu.be/your_demo_link_here)
