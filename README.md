@@ -40,7 +40,7 @@ Ultimately, this project aims to democratize water safety information and empowe
 Our solution consists of a multi-page Streamlit application designed to educate users and help them evaluate water safety using public pH data. The tool is structured around three key components:
 
 ### 🏠 Main Page
-Introduces the Water Quality Advisory Tool, its purpose, and how users can benefit from it. This page sets the context for the application, explaining how understanding water quality — particularly pH — can impact public health.
+Introduces the Water Quality Advisory Tool, its purpose, and how users can benefit from it. This page sets the context for the application, explaining how understanding water quality can impact public health.
 
 ### 🧪 pH Tool
 This is the core feature of the app. Users input a pH value from Santa Clara Valley Water reports, and the tool uses OpenAI’s GPT-3.5 model to evaluate the value against EPA drinking water standards. It generates a safety assessment and explains the implications in simple language.
@@ -56,12 +56,12 @@ A fully educational page designed to improve public understanding of water quali
 - Explains the significance of pH and other elements  
 - Empowers users with accessible environmental knowledge  
 
-Together, these pages offer a complete experience — from analysis to education — helping users take control of understanding the water they rely on daily.
+Together, these pages offer a complete experience, from analysis to education, and helping users take control of understanding the water they rely on daily.
 
 **Accessible Interface:**  
 Streamlit provides a responsive and user-friendly platform that allows anyone to access the tool via a browser without technical expertise.
 
-The interface and logic are structured to prioritize clarity, ease of use, and reliability. In the future, we plan to extend this system with additional metrics (e.g., mineral levels), CSV uploads, and multi-lingual support.
+The interface and logic are structured to prioritize clarity, ease of use, and reliability. In the future, we plan to extend this system with additional metrics, CSV uploads, and multi-lingual support.
 
 ## See Our Demo Video
 [![Watch the demo](https://img.youtube.com/vi/-TwspHdb45I/maxresdefault.jpg)](https://youtu.be/-TwspHdb45I)
