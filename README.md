@@ -3,7 +3,7 @@
 <!--
 ![GitHub Logo](/CASExplorer.png) 
 -->
-![Alt Text](/waterquality_icon.png)
+![Alt Text](/AquaAnalyzer png.png)
 
 ##
 
