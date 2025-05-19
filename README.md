@@ -37,15 +37,26 @@ Ultimately, this project aims to democratize water safety information and empowe
 
 ## Our Solution
 
-We developed a prototype that analyzes pH data through OpenAI’s GPT-3.5 and delivers real-time water safety insights. The tool was built using Python and Streamlit to ensure a simple and interactive experience.
+Our solution consists of a multi-page Streamlit application designed to educate users and help them evaluate water safety using public pH data. The tool is structured around three key components:
 
-There are three key components of the system:
+### 🏠 Main Page
+Introduces the Water Quality Advisory Tool, its purpose, and how users can benefit from it. This page sets the context for the application, explaining how understanding water quality — particularly pH — can impact public health.
 
-**pH Input Tool:**  
-Users input a numeric pH value taken from Santa Clara Valley Water’s public reports. The tool then validates the range and feeds it to the AI for interpretation.
+### 🧪 pH Tool
+This is the core feature of the app. Users input a pH value from Santa Clara Valley Water reports, and the tool uses OpenAI’s GPT-3.5 model to evaluate the value against EPA drinking water standards. It generates a safety assessment and explains the implications in simple language.
 
-**AI Safety Assessment:**  
-GPT-3.5 evaluates the provided pH level against EPA drinking water standards and responds with an assessment (safe, borderline, or unsafe) along with a brief explanation of potential effects.
+- Validates and interprets numeric pH inputs  
+- Delivers AI-generated safety summaries  
+- Helps users understand if their water falls within a safe range  
+
+### 📚 Water Education
+A fully educational page designed to improve public understanding of water quality terms and issues. It breaks down complex topics like pH, contaminants, and their health effects into simple, readable sections. This page supports environmental awareness and informed decision-making.
+
+- Defines key water quality concepts  
+- Explains the significance of pH and other elements  
+- Empowers users with accessible environmental knowledge  
+
+Together, these pages offer a complete experience — from analysis to education — helping users take control of understanding the water they rely on daily.
 
 **Accessible Interface:**  
 Streamlit provides a responsive and user-friendly platform that allows anyone to access the tool via a browser without technical expertise.
